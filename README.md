@@ -5,5 +5,7 @@ Project includes extensive data preprocessing, feature engineering and ensemble 
 In the imbalanced dataset, 0.90 ROC-AUC score is achieved. Features' roles in the prediction are explained through decision trees.
 
 Please refer to following files for the code and presentation:
+
 Code.ipynb
+
 Presentation.pdf
